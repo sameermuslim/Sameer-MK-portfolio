@@ -1,4 +1,4 @@
-# Sticky Wall Web Project
+# Sameer MK's Portfolio
 
 Welcome to my portfolio website! This was my first attempt at building a portfolio when I was learning HTML and CSS. The site showcases my projects and provides a glimpse into my skills and interests.
 
@@ -6,22 +6,29 @@ Welcome to my portfolio website! This was my first attempt at building a portfol
 
 The project is a static website built using only HTML and CSS. While it's not fully responsive at the moment, I plan to make it responsive in the future to ensure a better user experience across various devices.
 
-- `index.html`: The main HTML file that serves as the entry point for the web application.
-- `styles.css`: The CSS file containing styles for the project.
+## Features
+
+- **About Me**: A brief introduction to Sameer MK, his background, and professional interests.
+- **Skills**: A list of skills and technologies Sameer is proficient in.
+- **Projects**: Showcase of Sameer's notable projects with details and links.
+- **Resume**: Access to Sameer's resume for a more detailed overview.
+- **Contact**: A contact form and links to Sameer's social media profiles for easy communication.
 
 ## Screenshots
 
 ![Screenshot 1](images/Screenshot1.png)
 
-## Features
+## How to Use
 
-- **Sticky Wall Interface**: The main panel displays a sticky wall where sticky notes can be added in future iterations.
-- **Sidebar**: The sidebar contains categories and menus for organizing sticky notes, though it is currently static and non-functional.
+1. Clone the repository: `git clone https://github.com/sameermuslim/Sameer-MK-portfolio.git`.
+2. Open `index.html` in your web browser to view the portfolio locally.
 
-## Getting Started
+## Contributing
 
-1. Clone the repository to your local machine:
+If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
-   ```bash
-   git clone https://github.com/sameermuslim/Sameer-MK-portfolio.git
-   ```
+## License
+
+This portfolio project is licensed under the [MIT License](LICENSE). Feel free to use the code, modify it, and adapt it for your own portfolio.
+
+Thank you for visiting Sameer MK's Portfolio!

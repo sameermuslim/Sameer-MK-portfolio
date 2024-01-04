@@ -11,11 +11,11 @@ body {
 .primary {
   color: #d5c454;
 }
+
 .marg20 {
   padding: 30px;
 }
 .navbar {
-  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 1.42857143;
@@ -48,6 +48,7 @@ li > a {
   text-decoration: none;
   color: #000000;
   font-size: 16px;
+  font-weight: 500;
 }
 .navbar a:hover {
   color: white;
